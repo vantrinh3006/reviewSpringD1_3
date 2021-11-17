@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+E:\LAPTRINHJAVA\springProject\homeWork\HWD3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\719115757.index
+\springd1\src\main\java
+E:\LAPTRINHJAVA\springProject\DownLoad\d5_BT\D1_3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2645559798.index
+\springHW\src\main\java
+E:\LAPTRINHJAVA\springProject\D1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\719115757.index
+\springd1\src\main\java
+E:\LAPTRINHJAVA\springProject\DownLoad\d5_BT\D1_3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3114337154.index
+\springHW\src\main\java
+E:\LAPTRINHJAVA\springProject\homeWork\HWD3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\272151464.index
+\springd1\src\main\java
+E:\LAPTRINHJAVA\springProject\DownLoad\d5_BT\D1_3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1633532856.index
+\springHW\src\main\java
+E:\LAPTRINHJAVA\springProject\DownLoad\d5_BT\D1_3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2237043348.index
+\springHW\src\main\java
+E:\LAPTRINHJAVA\springProject\springD1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\719115757.index
+\springd1\src\main\java
+E:\LAPTRINHJAVA\springProject\DownLoad\d5_BT\D1_3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2889117700.index
+\springHW\src\main\java
+E:\LAPTRINHJAVA\springProject\D1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\272151464.index
+\springd1\src\main\resources

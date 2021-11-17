@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+E:\LAPTRINHJAVA\springProject\DownLoad\d5_BT\D1_3\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+903742893.index

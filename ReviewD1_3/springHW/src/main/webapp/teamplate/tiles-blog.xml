@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+        "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+        "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+<tiles-definitions>
+    <definition name="template.blog" template="/teamplate/common/blog.jsp">
+        <put-attribute name="search" value="/teamplate/common/search.jsp" />
+        <put-attribute name="leftbar" value="/teamplate/common/leftbar.jsp" />
+        <put-attribute name="body" value="" />
+        <put-attribute name="footer" value="/teamplate/common/footer.jsp" />
+    </definition>
+
+    <definition name="blog.index" extends="template.blog" >
+        <put-attribute name="body" value="/WEB-INF/pages/blog/index.jsp" />
+    </definition>
+
+    <definition name="blog.contact" extends="template.blog" >
+        <put-attribute name="body" value="/WEB-INF/pages/blog/contact.jsp" />
+    </definition>
+
+    <definition name="blog.about" extends="template.blog" >
+        <put-attribute name="body" value="/WEB-INF/pages/blog/about.jsp" />
+    </definition>
+
+    <definition name="blog.post" extends="template.blog" >
+        <put-attribute name="body" value="/WEB-INF/pages/blog/post.jsp" />
+    </definition>
+
+</tiles-definitions>
